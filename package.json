@@ -1,0 +1,15 @@
+{
+  "name": "learn_nightmare",
+  "version": "1.0.0",
+  "description": "Demo Nightmare",
+  "main": "index.js",
+  "author": "Trinh Minh Cuong",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.10.0",
+    "nightmare-inline-download": "^0.2.2",
+    "node-cron": "^1.1.3",
+    "nodemailer": "^4.0.1",
+    "xoauth2": "^1.2.0"
+  }
+}
